@@ -13,9 +13,14 @@
 
 ## Sobre o projeto
 
+Projeto de especialização em análise de dados desenvolvido durante a realização do curso [Pandas: transformação e manipulação de dados](https://www.alura.com.br/curso-online-pandas-transformacao-manipulacao-dados), ministrado pela instrutora [Mirla Costa](https://www.linkedin.com/in/mirla-costa/). A partir desse projeto, será trabalhado os processos de transformação e manipulação de conjuntos de dados com a biblioteca Pandas.
+
 ## Aprendizagens
 
 ## Como acessar o projeto?
+
+O projeto foi feito por completo no Google Colaboratory, logo, para acessar a análise, clique no link abaixo:
+- [Projeto no Google Colaboratory](https://colab.research.google.com/github/strawndri/python-ds-pandas-transformacao-manipulacao-dados/blob/main/Projeto_Python_Data_Science.ipynb)
 
 ## Tecnologias utilizadas
 - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem;
